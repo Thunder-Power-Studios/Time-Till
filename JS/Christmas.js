@@ -23,6 +23,6 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("christmas").innerHTML = "Happy Christmas!";
+    document.getElementById("christmas").innerHTML = "Merry Christmas!";
   }
 }, 1000);
