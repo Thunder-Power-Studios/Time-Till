@@ -11,3 +11,13 @@ img{
     Width:300px;
     border:5px solid black;
 }
+.back .donate{
+	font-family:'Permanent Marker',cursive;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-radius:12px;
+	font-size:10px;
+	display:inline-block;
+	cursor:pointer;
+	text-align:center;
+}
