@@ -4,7 +4,7 @@ p{
   	margin-top:0px;
 }
 body{
-	background-color:black;
+	background-color:white;
 	color:white;
 }
 img{
@@ -17,7 +17,7 @@ button{
 	font-weight:bold;
 	text-transform:uppercase;
 	border-radius:12px;
-	font-size:10px;
+	font-size:20px;
 	display:inline-block;
 	cursor:pointer;
 	text-align:center;
