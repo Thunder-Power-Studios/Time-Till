@@ -1,7 +1,7 @@
 p{
-    text-align:center;
-    font-size:60px;
-    margin-top:0px;
+  text-align:center;
+  font-size:60px;
+  margin-top:0px;
 }
 body{
   background-color:purple;
@@ -10,4 +10,14 @@ img{
   height:300px;
   Width:300px;
   border:5px solid black;
+}
+.back{
+	font-family:'Permanent Marker',cursive;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-radius:12px;
+	font-size:10px;
+	display:inline-block;
+	cursor:pointer;
+	text-align:center;
 }

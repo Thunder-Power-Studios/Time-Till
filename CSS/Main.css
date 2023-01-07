@@ -1,15 +1,15 @@
 p{
-  text-align:center;
-  font-size:60px;
-  margin-top:0px;
+  	text-align:center;
+  	font-size:60px;
+  	margin-top:0px;
 }
 body{
-  background-color:grey;
+  	background-color:grey;
 }
 img{
-  height:300px;
-  Width:300px;
-  border:5px solid black;
+  	height:300px;
+  	Width:300px;
+  	border:5px solid black;
 }
 button{
 	font-family:'Permanent Marker',cursive;
