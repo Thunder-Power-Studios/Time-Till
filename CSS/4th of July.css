@@ -1,16 +1,12 @@
 p{
-  	text-align:center;
+	text-align:center;
   	font-size:60px;
   	margin-top:0px;
-}
-body{
-	background-color:black;
-	color:white;
 }
 img{
 	height:300px;
 	Width:300px;
-	border:5px solid white;
+	border:5px solid black;
 }
 button{
 	font-family:'Permanent Marker',cursive;
@@ -21,5 +17,4 @@ button{
 	display:inline-block;
 	cursor:pointer;
 	text-align:center;
-	border-color:white;
 }
