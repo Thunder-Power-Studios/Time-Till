@@ -11,7 +11,7 @@ img{
   Width:300px;
   border:5px solid black;
 }
-.back .donate{
+button{
 	font-family:'Permanent Marker',cursive;
 	font-weight:bold;
 	text-transform:uppercase;
