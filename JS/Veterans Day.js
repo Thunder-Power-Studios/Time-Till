@@ -11,6 +11,6 @@ document.getElementById("VeteransDay").innerHTML=days+"d "+hours+"h "+minutes+"m
 
 if(distance<0){
 clearInterval(x);
-document.getElementById("VeteransDay").innerHTML="Happy Veteran's Day!";
+document.getElementById("VeteransDay").innerHTML="Happy Veterans Day!";
 }
 },1000);

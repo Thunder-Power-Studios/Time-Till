@@ -11,6 +11,6 @@ document.getElementById("ValentinesDay").innerHTML=days+"d "+hours+"h "+minutes+
 
 if(distance<0){
 clearInterval(x);
-document.getElementById("ValentinesDay").innerHTML="Happy President's Day!";
+document.getElementById("ValentinesDay").innerHTML="Happy Valentine's Day!";
 }
 },1000);

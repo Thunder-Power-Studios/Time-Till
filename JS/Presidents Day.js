@@ -11,6 +11,6 @@ document.getElementById("PresidentsDay").innerHTML=days+"d "+hours+"h "+minutes+
 
 if(distance<0){
 clearInterval(x);
-document.getElementById("PresidentsDay").innerHTML="Happy President's Day!";
+document.getElementById("PresidentsDay").innerHTML="Happy Presidents Day!";
 }
 },1000);
