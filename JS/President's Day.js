@@ -1,4 +1,4 @@
-var countDownDate=new Date("Feb 19, 2024 0:0:0").getTime();
+var countDownDate=new Date("Feb 17, 2025 0:0:0").getTime();
 var x=setInterval(function(){
 var now=new Date().getTime();
 var distance=countDownDate-now;
@@ -11,6 +11,6 @@ document.getElementById("PresidentsDay").innerHTML=days+"d "+hours+"h "+minutes+
 
 if(distance<0){
 clearInterval(x);
-document.getElementById("PresidentsDay").innerHTML="Happy Presidents Day!";
+document.getElementById("PresidentsDay").innerHTML="Happy President's Day!";
 }
 },1000);
