@@ -1,0 +1,37 @@
+.SM{
+	height:50px;
+	width:50px;
+	margin:10px;
+}
+.twitter{
+	background-color:Blue;
+	color:White;
+}
+.twitter:hover {
+	background-color:White;
+	color:Blue;
+}
+.instagram{
+	background-color:Pink;
+	color:White;
+}
+.instagram:hover {
+	background-color:White;
+	color:Pink;
+}
+.gmail{
+	background-color:Red;
+	color:White;
+}
+.gmail:hover {
+	background-color:White;
+	color:Red;
+}
+.threads{
+	background-color:black;
+	color:White;
+}
+.threads:hover{
+	background-color:White;
+	color:black;
+}
