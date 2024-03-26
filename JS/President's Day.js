@@ -1,3 +1,4 @@
+// Same date every year
 var countDownDate=new Date("February 17, 2025 0:0:0").getTime();
 var x=setInterval(function(){
 var now=new Date().getTime();
