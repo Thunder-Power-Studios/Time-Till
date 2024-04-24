@@ -1,5 +1,5 @@
 // Different date every year
-var countDownDate=new Date("April 8, 2024 0:0:0").getTime();
+var countDownDate=new Date("August 23, 2044 0:0:0").getTime();
 var x=setInterval(function(){
 var now=new Date().getTime();
 var distance=countDownDate-now;
