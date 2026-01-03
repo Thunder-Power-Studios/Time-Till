@@ -1,4 +1,4 @@
-// Different date every year
+// Different date every years
 var countDownDate=new Date("August 23, 2044 0:0:0").getTime();
 var x=setInterval(function(){
 var now=new Date().getTime();

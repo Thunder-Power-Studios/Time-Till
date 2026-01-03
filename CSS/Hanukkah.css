@@ -1,0 +1,24 @@
+p{
+    text-align:center;
+    font-size:3.75rem;
+    margin-top:0px;
+}
+body{
+    background-color:gold;
+	color:silver;
+}
+img{
+    height:18.75rem;
+    Width:18.75rem;
+    border:5px solid black;
+}
+button{
+	font-family:'Permanent Marker',cursive;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-radius:0.75rem;
+	font-size:1.25remrem;
+	display:inline-block;
+	cursor:pointer;
+	text-align:center;
+}

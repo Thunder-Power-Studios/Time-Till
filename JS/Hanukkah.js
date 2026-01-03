@@ -1,5 +1,7 @@
-// Same date every year
-var countDownDate=new Date("December 31, 2026 0:0:0").getTime();
+// Different date every year  
+// (24,2027) (12,2028) (1,2029) (20,2030) 
+// Starts at nightfall, need to add
+var countDownDate=new Date("December 4, 2026 0:0:0").getTime();
 var x=setInterval(function(){
 var now=new Date().getTime();
 var distance=countDownDate-now;
@@ -8,10 +10,10 @@ var hours=Math.floor((distance%(1000*60*60*24))/(1000*60*60));
 var minutes=Math.floor((distance%(1000*60*60))/(1000*60));
 var seconds=Math.floor((distance%(1000*60))/1000);
 
-document.getElementById("NewYearsEve").innerHTML=days+"d "+hours+"h "+minutes+"m "+seconds+"s ";
+document.getElementById("Hanukkah").innerHTML=days+"d "+hours+"h "+minutes+"m "+seconds+"s ";
 
 if(distance<0){
 clearInterval(x);
-document.getElementById("NewYearsEve").innerHTML="Happy New Year's Eve!";
+document.getElementById("Hanukkah").innerHTML="Happy Hanukkah!";
 }
 },1000);
