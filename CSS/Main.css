@@ -1,9 +1,10 @@
-p{
-  	text-align:center;
-	margin:0px;
-}
 body{
   	background-color:grey;
+}
+p{
+  	text-align:center;
+	font-size:3.75rem;
+	margin:0px;
 }
 img{
   	height:18.75rem;
@@ -15,23 +16,63 @@ button{
 	font-weight:bold;
 	text-transform:uppercase;
 	border-radius:0.75rem;
-	font-size:30px;	
+	font: size 1.875rem;	
 	display:inline-block;
 	cursor:pointer;
 	text-align:center;
 }
+.countdowmpagebutton{
+	font-size:1.25rem;
+}
 .donate{
-	font-size:1.25remremremremremremrem;
+	font-size:1.25rem;
 }
 .E1{
-	font-size:100px;
+	font-size:6.25rem;
 }
 .E2{
-	font-size:50px;
+	font-size:3.125rem;
 }
 .E3{
-	font-size:25px;
+	font-size:1.563rem;;
 }
 .Countdown{
   	font-size:3.75rem;
+}
+.SM{
+	height:3.125rem;
+	width:3.125rem;
+	margin:0.625rem;
+}
+.twitter{
+	background-color:Blue;
+	color:White;
+}
+.twitter:hover {
+	background-color:White;
+	color:Blue;
+}
+.instagram{
+	background-color:Pink;
+	color:White;
+}
+.instagram:hover {
+	background-color:White;
+	color:Pink;
+}
+.gmail{
+	background-color:Red;
+	color:White;
+}
+.gmail:hover {
+	background-color:White;
+	color:Red;
+}
+.threads{
+	background-color:black;
+	color:White;
+}
+.threads:hover{
+	background-color:White;
+	color:black;
 }
