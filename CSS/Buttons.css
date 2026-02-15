@@ -1,0 +1,203 @@
+/*All pages*/
+button{
+	font-family:"Permanent Marker", cursive;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-radius:0.75rem;
+	font-size:1.875rem;	
+	display:inline-block;
+	cursor:pointer;
+	text-align:center;
+}
+.SML{
+	margin-top:0px;
+	margin-left:1400px;
+
+}
+.SM{
+	height:3.125rem;
+	width:3.125rem;
+	margin-top:0px;
+	margin:0.625rem;
+}
+.twitter{
+	background-color:Blue;
+	color:White;
+}
+.twitter:hover {
+	background-color:White;
+	color:Blue;
+}
+.instagram{
+	background-color:Pink;
+	color:White;
+}
+.instagram:hover {
+	background-color:White;
+	color:Pink;
+}
+.gmail{
+	background-color:Red;
+	color:White;
+}
+.gmail:hover {
+	background-color:White;
+	color:Red;
+}
+.threads{
+	background-color:black;
+	color:White;
+}
+.threads:hover{
+	background-color:White;
+	color:black;
+}
+
+.TPS{
+	background-color:grey;
+	color:yellow;
+}
+.TPS:hover{
+	background-color:yellow;
+	color:grey;
+}
+.donate{
+	font-size:1.25rem;
+}
+
+
+
+
+/*All pages but index and country pages*/
+.back{
+background-color:grey;
+	color:yellow;
+}
+.back:hover{
+	background-color:yellow;
+	color:grey;
+}
+
+/*Index*/
+.USA{
+background-color: blue;
+color: white;
+}
+.USA:hover{
+background-color:red;
+color: white;
+}
+
+/*USA*/
+.NewYears{
+	background-color:gold;
+	color:white;
+}
+.NewYears:hover{
+	background-color:white;
+	color:gold;
+}
+.MartinLutherKing{
+background-color:black;
+	color:white;
+}
+.MartinLutherKing:hover{
+	background-color:white;
+	color:black;
+}
+.ValentinesDay{
+    background-color:pink;
+    color:red;
+}
+.ValentinesDay:hover{
+	background-color:red;
+	color:pink;
+}
+.PresidentsDay{ /*USA Colors */
+background-color:blue;
+color:white;
+}
+.PresidentsDay:hover{
+background-color:red;
+color:white;
+}
+.SaintPatricksDay{
+background-color:darkgreen;
+color:green;
+}
+.SaintPatricksDay:hover{
+background-color:green;
+color:darkgreen;
+}
+.Easter{
+background-color:white;
+color:gold;
+}
+.Easter:hover{
+background-color:gold;
+color:white;
+}
+.SolarEclipse{
+background-color:yellow;
+color:black;
+}
+.SolarEclipse:hover{
+background-color:black;
+color:yellow;
+}
+.Juneteenth{
+background-color:red;
+color:black;
+}
+.Juneteenth:hover{
+background-color:black;
+color:red;
+}
+.LaborDay{
+background-color:white;
+color:blue;
+}
+.LaborDay:hover{
+background-color:blue;
+color:white;
+}
+.ColumbusDay{
+background-color:navy;
+color:white;
+}
+.ColumbusDay:hover{
+background-color:white;
+color:navy;
+}
+.Halloween{
+background-color:orange;
+color:black;
+}
+.Halloween:hover{
+background-color:black;
+color:orange;
+}
+.Thanksgiving{
+background-color:brown;
+color:orange;
+}
+.Thanksgiving:hover{
+background-color:orange;
+color:brown;
+}
+.Hanukkah{
+background-color:gold;
+color:silver;
+}
+.Hanukkah:hover{
+background-color:silver;
+color:gold;
+}
+.Christmas{
+background-color:green;
+color:red;
+}
+.Christmas:hover{
+background-color:red;
+color:green;
+}

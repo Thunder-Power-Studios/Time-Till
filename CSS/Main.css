@@ -10,22 +10,7 @@ img{
   	height:18.75rem;
   	Width:18.75rem;
   	border:5px solid black;
-}
-button{
-	font-family:'Permanent Marker',cursive;
-	font-weight:bold;
-	text-transform:uppercase;
-	border-radius:0.75rem;
-	font: size 1.875rem;	
-	display:inline-block;
-	cursor:pointer;
-	text-align:center;
-}
-.countdowmpagebutton{
-	font-size:1.25rem;
-}
-.donate{
-	font-size:1.25rem;
+	margin-top: 0px;
 }
 .E1{
 	font-size:6.25rem;
@@ -38,50 +23,4 @@ button{
 }
 .Countdown{
   	font-size:3.75rem;
-}
-.SM{
-	height:3.125rem;
-	width:3.125rem;
-	margin:0.625rem;
-}
-.twitter{
-	background-color:Blue;
-	color:White;
-}
-.twitter:hover {
-	background-color:White;
-	color:Blue;
-}
-.instagram{
-	background-color:Pink;
-	color:White;
-}
-.instagram:hover {
-	background-color:White;
-	color:Pink;
-}
-.gmail{
-	background-color:Red;
-	color:White;
-}
-.gmail:hover {
-	background-color:White;
-	color:Red;
-}
-.threads{
-	background-color:black;
-	color:White;
-}
-.threads:hover{
-	background-color:White;
-	color:black;
-}
-
-.TPS{
-	background-color:grey;
-	color:yellow;
-}
-.TPS:hover{
-	background-color:yellow;
-	color:grey;
 }
