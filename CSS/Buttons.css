@@ -12,7 +12,10 @@ button{
 .SML{
 	margin-top:0px;
 	margin-left:1400px;
-
+	position:absolute;
+	top:20px;
+	right:20px;
+	display:flex;
 }
 .SM{
 	height:3.125rem;
@@ -20,51 +23,36 @@ button{
 	margin-top:0px;
 	margin:0.625rem;
 }
-.twitter{
-	background-color:Blue;
-	color:White;
-}
-.twitter:hover {
-	background-color:White;
-	color:Blue;
-}
 .instagram{
-	background-color:Pink;
-	color:White;
+	background-color:#E1306C;
 }
 .instagram:hover {
-	background-color:White;
-	color:Pink;
-}
-.gmail{
-	background-color:Red;
-	color:White;
-}
-.gmail:hover {
-	background-color:White;
-	color:Red;
+	background-color:#FD1D1D;
 }
 .threads{
 	background-color:black;
-	color:White;
 }
-.threads:hover{
+.threads:hover, .twitter:hover{
 	background-color:White;
-	color:black;
 }
-
+.twitter{
+	background-color:Blue;
+}
+.gmail{
+	background-color:Red;
+}
+.gmail:hover {
+	background-color:blue;
+}
 .TPS{
 	background-color:grey;
-	color:yellow;
 }
 .TPS:hover{
 	background-color:yellow;
-	color:grey;
 }
 .donate{
 	font-size:1.25rem;
 }
-
 
 
 

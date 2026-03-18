@@ -1,4 +1,5 @@
-body{
+body,img, button{
 background-color:blue;
 color:red;
+border-color:red
 }
