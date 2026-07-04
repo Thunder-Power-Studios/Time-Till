@@ -24,3 +24,10 @@ img{
 .Countdown{
   	font-size:3.75rem;
 }
+
+
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
