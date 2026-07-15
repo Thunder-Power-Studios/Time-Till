@@ -3,26 +3,26 @@ body{
 }
 p{
   	text-align:center;
-	font-size:3.75rem;
-	margin:0px;
+	font-size:3.75rem;/*60px*/
+	margin:0rem;
 }
 img{
-  	height:18.75rem;
-  	Width:18.75rem;
-  	border:5px solid black;
-	margin-top: 0px;
+  	height:18.75rem;/*300px*/
+  	Width:18.75rem;/*300px*/
+  	border:0.313rem solid black;/*5px*/
+	margin-top:0rem;
 }
 .E1{
-	font-size:6.25rem;
+	font-size:6.25rem;/*100px*/
 }
 .E2{
-	font-size:3.125rem;
+	font-size:3.125rem;/*50px*/
 }
 .E3{
-	font-size:1.563rem;;
+	font-size:1.563rem;/*25.008*/
 }
 .Countdown{
-  	font-size:3.75rem;
+  	font-size:3.75rem;/*60px*/
 }
 
 
