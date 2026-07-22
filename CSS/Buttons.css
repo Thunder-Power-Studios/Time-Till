@@ -3,25 +3,26 @@ button{
 	font-family:"Permanent Marker", cursive;
 	font-weight:bold;
 	text-transform:uppercase;
-	border-radius:0.75rem;
-	font-size:1.875rem;	
+	border-radius:0.75rem;/*12px*/
+	font-size:1.875rem;/*30px*/
 	display:inline-block;
 	cursor:pointer;
 	text-align:center;
 }
+/*Contianer for social media*/
 .SML{
-	margin-top:0px;
-	margin-left:1400px;
+	margin-top:0rem;
+	margin-left:1400px;/*1400px*/
 	position:absolute;
-	top:20px;
-	right:20px;
+	top:20px;/*20px*/
+	right:20px;/*20px*/
 	display:flex;
 }
 .SM{
-	height:3.125rem;
-	width:3.125rem;
+	height:3.125rem;/*50px*/
+	width:3.125rem;/*50px*/
 	margin-top:0px;
-	margin:0.625rem;
+	margin:0.625rem;/*10px*/
 }
 .instagram{
 	background-color:#E1306C;
@@ -51,7 +52,7 @@ button{
 	background-color:yellow;
 }
 .donate{
-	font-size:1.25rem;
+	font-size:1.25rem;/*20px*/
 }
 
 
@@ -356,4 +357,28 @@ color:;
 .DLSTE:hover{
 background-color:;
 color:;
+}
+.USElection{
+background-color:red;
+color:blue;
+}
+.USElection:hover{
+background-color:blue;
+color:red;
+}
+.SMBND{
+background-color:red;
+color:blue;
+}
+.SMBND:hover{
+background-color:blue;
+color:red;
+}
+.Doomsday{
+background-color:Green;
+color:darkgreen;
+}
+.Doomsday:hover{
+background-color:darkgreen;
+color:green;
 }

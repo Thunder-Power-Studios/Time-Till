@@ -1,0 +1,9 @@
+body,img, button{
+background-color:red;
+color:blue;
+border-color:black;
+}
+p{
+border:5px solid;
+border-color:black;
+}
