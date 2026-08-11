@@ -1,5 +1,7 @@
 body{
   	background-color:grey;
+	color:yellow;
+	font-family:"";
 }
 p{
   	text-align:center;
@@ -23,11 +25,4 @@ img{
 }
 .Countdown{
   	font-size:3.75rem;/*60px*/
-}
-
-
-.permanent-marker-regular {
-  font-family: "Permanent Marker", cursive;
-  font-weight: 400;
-  font-style: normal;
 }
