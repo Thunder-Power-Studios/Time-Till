@@ -373,3 +373,10 @@ startCountdown({
     element:"#NewYearsEve",
     message:"Happy New Year's Eve!",
 });
+
+// One time
+startCountdown({
+    target:"Nov 19, 2026",
+    element:"#GTA6",
+    message:"GTA 6 is finally out! Go Play!",
+});

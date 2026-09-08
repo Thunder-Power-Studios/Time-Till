@@ -2,3 +2,5 @@
 
 User-agent: *
 Allow: /
+
+Sitemap: https://thunder-power-studios.github.io/Time-Till/sitemap.txt

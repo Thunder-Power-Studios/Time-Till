@@ -383,3 +383,11 @@ color:darkgreen;
 background-color:darkgreen;
 color:green;
 }
+.GTA6{
+background-color:pink;
+color:orange;
+}
+.GTA6:hover{
+background-color:blue;
+color:purple;
+}

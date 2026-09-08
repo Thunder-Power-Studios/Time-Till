@@ -4,8 +4,7 @@ body{
 	font-family:"";
 }
 p{
-  	text-align:center;
-	font-size:3.75rem;/*60px*/
+	font-size:16px;/*3.75rem60px*/
 	margin:0rem;
 }
 img{
@@ -14,15 +13,25 @@ img{
   	border:0.313rem solid black;/*5px*/
 	margin-top:0rem;
 }
+a{
+	text-decoration:none;
+}
+h1{
+	margin:25px;
+}
 .E1{
 	font-size:6.25rem;/*100px*/
+	text-align:center;
 }
 .E2{
 	font-size:3.125rem;/*50px*/
+	text-align:center;
 }
 .E3{
 	font-size:1.563rem;/*25.008px*/
+	text-align:center;
 }
 .Countdown{
   	font-size:3.75rem;/*60px*/
+	text-align:center;
 }
