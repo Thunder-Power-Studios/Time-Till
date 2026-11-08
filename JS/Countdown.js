@@ -240,7 +240,7 @@ startCountdown({
 
 // Same date every year
 startCountdown({
-    target:"Sept 18, 2026",
+    target:"Sept 18, 2027",
     element:"#USAirForce",
     message:"Happy Birthday Airmen!",
 });
@@ -268,28 +268,28 @@ startCountdown({
 
 // Different date every year
 startCountdown({
-    target:"Oct 23, 2026",
+    target:"Oct, 2026",
     element:"#WorldSeries",
     message:"The World Series is here! Let's go teams!",
 });
 
 // Same date every year
 startCountdown({
-    target:"Oct 31,2026",
+    target:"Oct 31,2027",
     element:"#Halloween",
     message:"Happy Halloween!",
 });
 
 // Same date every year
 startCountdown({
-    target:"Nov 1, 2026",
+    target:"Nov 1, 2027",
     element:"#AllSaintsDay",
     message:"Happy All Saints Day!",
 });
 
 //Different date every year
 startCountdown({
-    target:"Nov 1, 2026",
+    target:"Nov 7, 2027",
     element:"#DLSTE",
     message:"Change your clocks back, Gain one hour of sleep.",
 });
